@@ -1,4 +1,4 @@
-nombres=["Jorge", "Mateo", "Sofia", "Mariana", "Gabriela","Nicolas", "Jacobo", "Juana","Tomas","Juan d","Daniela","Daniel C","Sergio","Anita","Jose",",Francisco","Villa"]
+nombres=["Jorge", "Mateo", "Sofia", "Mariana", "Gabriela","Nicolas", "Jacobo", "Juana","Tomas","Juan d","Daniela","Daniel C","Sergio","Anita","Jose","Francisco","Villa"]
 edades= []
 let suma= 0
 for(let i= 0; i<17;i++){
